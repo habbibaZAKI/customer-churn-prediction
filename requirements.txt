@@ -1,0 +1,21 @@
+# Core Data Science Libraries
+pandas>=1.4.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Imbalanced Learning (for SMOTE)
+imbalanced-learn>=0.8.0
+
+# Interactive Interface (optional, for Streamlit interface)
+streamlit>=1.0.0
+
+# Jupyter Notebook Support (if running notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
